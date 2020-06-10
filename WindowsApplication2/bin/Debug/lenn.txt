@@ -1,0 +1,2 @@
+first, last, D.O.B, password, email
+henny, Targaryen, 4/4/1989, hennyTargaryen1989, hennyTargaryen1989@gmail.com, 
